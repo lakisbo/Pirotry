@@ -251,3 +251,11 @@ Aᴠᴀɪʟᴀʙʟᴇ ᴄᴏᴍᴍᴀɴᴅs:
 
     LOGO = """
 PIRO BOTS"""
+
+    CHANNEL_CAP = """
+<b>Hai 👋 {}</b> 😍
+<code>{}</code>
+⚠️ <b>This file will be deleted from here within 10 minute as it has copyright ... !!!</b>
+<b>Forward / Backup this file to your "Saved Messages" then start your download from there!</b>
+<b>© Powered by {}</b>
+"""
